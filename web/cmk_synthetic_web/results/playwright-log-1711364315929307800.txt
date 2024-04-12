@@ -1,0 +1,48 @@
+{"level":30,"time":"2024-03-25T10:58:36.736Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Listening on 57464"}
+(node:5060) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-03-25T10:58:37.180Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T10:58:37.180Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T10:58:37.186Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T10:58:37.187Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T10:58:37.195Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-03-25T10:58:38.614Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Adding browser to stack: firefox, version: 121.0"}
+{"level":30,"time":"2024-03-25T10:58:38.615Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-03-25T10:58:38.615Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-03-25T10:58:38.635Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method newContext"}
+{"level":30,"time":"2024-03-25T10:58:38.635Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-03-25T10:58:38.635Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Trace file: "}
+{"level":30,"time":"2024-03-25T10:58:38.744Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Changed active context"}
+{"level":30,"time":"2024-03-25T10:58:38.745Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method newContext"}
+{"level":30,"time":"2024-03-25T10:58:38.781Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-03-25T10:58:38.781Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-03-25T10:58:41.017Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Video path: undefined"}
+{"level":30,"time":"2024-03-25T10:58:41.017Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Changed active page"}
+{"level":30,"time":"2024-03-25T10:58:43.655Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method newPage"}
+{"level":30,"time":"2024-03-25T11:00:29.124Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T11:00:29.480Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T11:00:29.484Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T11:00:29.852Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T11:00:29.858Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Changed active context"}
+{"level":30,"time":"2024-03-25T11:00:29.858Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Changing current active page: page=02680508-0dbd-4c96-8be7-92e73ba77b63"}
+{"level":30,"time":"2024-03-25T11:00:29.858Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Changed active page"}
+{"level":30,"time":"2024-03-25T11:00:29.865Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T11:00:30.151Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T11:00:30.155Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-03-25T11:00:30.156Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-03-25T11:00:30.160Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-03-25T11:00:30.161Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-03-25T11:00:30.165Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Changing current active page: page=02680508-0dbd-4c96-8be7-92e73ba77b63"}
+{"level":30,"time":"2024-03-25T11:00:30.165Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Changed active page"}
+{"level":30,"time":"2024-03-25T11:00:30.173Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T11:00:30.271Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T11:00:30.275Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Changed active context"}
+{"level":30,"time":"2024-03-25T11:00:30.275Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Changing current active page: page=02680508-0dbd-4c96-8be7-92e73ba77b63"}
+{"level":30,"time":"2024-03-25T11:00:30.275Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Changed active page"}
+{"level":30,"time":"2024-03-25T11:00:30.279Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-03-25T11:00:30.293Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Removed page=24377029-99df-4717-8774-627dca98a0dd from context=5b208fb2-dc07-4988-bd93-9cffb8cee4e6 page stack"}
+{"level":30,"time":"2024-03-25T11:00:30.299Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-03-25T11:00:30.347Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T11:00:30.347Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-03-25T11:00:30.500Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-03-25T11:00:32.196Z","pid":5060,"hostname":"DESKTOP-FOCE5T9","msg":"End of node method closeAllBrowsers"}
