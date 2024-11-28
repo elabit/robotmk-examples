@@ -1,6 +1,9 @@
+# For more details on the format and content:
+# https://github.com/robocorp/rcc/blob/master/docs/recipes.md#what-is-in-robotyaml
+
 tasks:
   # Tasks are preconfigured commands which can be run from the command line. 
-  # (Robotmk does not use them at all, but instead executes custom Robot Framework commands inside of "rcc task shell")
+  # (Robotmk does not use them at all, but executes custom Robot Framework commands inside of "rcc task shell")
   Run all tasks:
     shell: python -m robot --report NONE --outputdir output --logtitle "Task log" tests.robot
 
